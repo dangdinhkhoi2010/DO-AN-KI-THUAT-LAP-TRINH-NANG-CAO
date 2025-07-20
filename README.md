@@ -4,4 +4,6 @@
   
 - To view the project in Visual Studio 2022, simply go to the Releases tab, download the ChuongTrinhquanlykhachsan.zip file, extract it to any folder on your computer, then open the ChuongTrinhquanlykhachsan.sln file with Visual Studio 2022 to Build and Run.
 
-- Thank you all very much ^^
+- When running the program, on the Login screen, the Username is "Nguyen Van An" and the Password is "123".
+
+- Thank you all very much (^.^) 
